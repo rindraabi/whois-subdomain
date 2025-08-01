@@ -11,4 +11,4 @@ Koleksi tools investigasi domain oleh Manyu
 ## Cara Install
 ```bash
 git https://github.com/rindraabi/whois-subdomain.git
-chmod +x tools-manyu.sh
+chmod +x manyu-tools.sh
